@@ -1,4 +1,4 @@
-time == 11
+
 def program 
 if time == 11
 puts "time to go to common room"
