@@ -1,3 +1,5 @@
+x = time
+time = 11
 
 def program 
 if time == 11
