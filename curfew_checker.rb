@@ -1,7 +1,8 @@
-time = 11
-x = time
+
 
 def program 
+time = 11
+x = time
 if time == 11
 puts "time to go to common room"
 else 
